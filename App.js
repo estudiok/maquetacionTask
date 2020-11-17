@@ -5,6 +5,7 @@ import ListaAlumnos from './componentes/lista-alumnos';
 import colores from './app/src/utils/colores';
 import Formulario from './app/src/components/form';
 import Result from './app/src/components/result';
+import Footer from './app/src/components/footer';
 
 export default function App() {
   // const [isEnabled, setIsEnabled] = useState(false);
@@ -23,7 +24,8 @@ export default function App() {
         <Result/>
       </View>
       <View style={[styles.contenedorTitulo, styles.contenedorFooter]}>
-        <Text style={styles.estiloFooter}>Copyrigth 2020</Text>
+        <Footer/>
+        {/* <Text style={styles.estiloFooter}>Copyrigth 2020</Text> */}
       </View>
     </Fragment>
   );
