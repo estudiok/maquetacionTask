@@ -1,3 +1,4 @@
 # MAQUETADO COTIZADOR DE PRESTAMOS
 
-![alt text](images/imagetarea.jpg "Logo Title Text 1")
+<!-- ![texto disenio](images/imagetarea.jpg) -->
+<img src="images/imagetarea.jpg" alt="drawing" width="350"/>
