@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Total Commander 64 bit
+Exec=env WINEPREFIX="/home/fitz/.wine" wine-stable C:\\\\Program\\ Files\\\\totalcmd\\\\totalcmd64.exe 
+Type=Application
+StartupNotify=true
+Comment=C:\Program Files\totalcmd\totalcmd64.exe
+Icon=A387_totalcmd64.0
+StartupWMClass=totalcmd64.exe
